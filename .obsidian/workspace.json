@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "8f29fa2c1c313b6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab4dd146b6426708",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a3cfc8aa1bce31c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature/gomanStatespaceRepresentationAerodynamic1994.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "gomanStatespaceRepresentationAerodynamic1994"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "284da0aedcc06ae8",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b690124d3c42a71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "722d59c987aa4e1b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "284c1e8086e291ac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "21cc6e4767ae833c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "777aba8a595ef577",
+    "type": "split",
+    "children": [
+      {
+        "id": "d881f46bb5899f7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7c7de53e9fc4e2f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "44f9cd0d33a7d5d8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "d9135012de7a731b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d5558387b1a80fc2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "44f3c7a4a5ec2d93",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "7a3cfc8aa1bce31c",
+  "lastOpenFiles": [
+    "Literature/williamsModelingLiftHysteresis2016.md",
+    "Literature/williamsFeedForwardDynamicStall2018.md",
+    "Literature/gomanStatespaceRepresentationAerodynamic1994.md",
+    "Literature/ayancikAllYouNeed2021.md",
+    "Dataset/99924.md",
+    "Templates/lit-note.md",
+    "Dataset/99928.md",
+    "Dataset/99952.md",
+    "Dataset/99950.md",
+    "Dataset/99932.md",
+    "Dataset/99920.md",
+    "Dataset/00-Overview.md",
+    "Dataset/99926.md",
+    "Dataset/99922.md",
+    "Dataset/99910.md",
+    "Dataset/99900.md",
+    "Welcome.md",
+    "Dataset/99964.md"
+  ]
+}
