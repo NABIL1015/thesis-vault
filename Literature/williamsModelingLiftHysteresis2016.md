@@ -39,3 +39,18 @@ doi: "10.2514/1.J054937"
 
 
 %% Import Date: 2026-08-25T03:52:27.343+06:00 %%
+
+
+---
+
+## Related
+
+- [[gk-equations]]
+- [[tau_1]], [[tau_2]]
+- [[00-Literature]]
+
+## Reading note
+
+Adds a static-hysteresis modification to G-K (separate X0 branches for
+pitch-up and pitch-down). Relevant because a thick airfoil like the
+NACA 0018 shows static hysteresis around 16-22 degrees.

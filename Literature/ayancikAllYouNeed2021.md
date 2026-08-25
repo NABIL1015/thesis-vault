@@ -39,3 +39,21 @@ p
 
 
 %% Import Date: 2026-08-25T03:48:46.061+06:00 %%
+
+
+---
+
+## Related
+
+- [[tau_1]] — this paper's physics-based value
+- [[tau_2]] — stall-delay power law
+- [[gk-equations]]
+- [[00-Literature]]
+
+## Reading note
+
+Open access (arXiv 2110.08516). Clearest modern statement of the
+Kirchhoff inversion — see [[Kirchhoff relation]].
+
+Gives tau_1 = 4.24 c/V, tied to post-stall vortex shedding, and a power
+law for the stall delay rather than a single tau_2.

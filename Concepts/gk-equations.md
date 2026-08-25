@@ -241,3 +241,16 @@ available data.
 - **Everything is switched off by dx₀/dα.** Where the static separation
   curve is flat, there is no unsteady effect at all. All the action is
   in the stall region where x₀ is changing fast.
+
+
+---
+
+## Related
+
+- [[Home]] — thesis home
+- [[gomanStatespaceRepresentationAerodynamic1994]] — source paper
+- [[glossary]] — plain-language definitions
+- [[tau_1]] — the disputed relaxation time
+- [[tau_2]] — the delay time
+- [[Separation point X]] — what x means physically
+- [[Kirchhoff relation]] — how x becomes lift

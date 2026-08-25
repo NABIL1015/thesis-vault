@@ -39,3 +39,21 @@ doi: "10.2514/1.J057266"
 
 
 %% Import Date: 2026-08-25T03:51:39.911+06:00 %%
+
+
+---
+
+## Related
+
+- [[Kirchhoff relation]] — this paper makes X0 a function of Cmu
+- [[00-Overview]] — same rig as these datasets
+- [[00-Literature]]
+
+## Reading note
+
+**The closest precedent that exists.** Same rig as your data: NACA 0018,
+leading-edge slot, Re = 300k, k = 0.09. Derives X0 as a function of Cmu,
+which is exactly the step you need.
+
+Also contains a feed-forward controller design — relevant to the
+pulsed-blowing endgame.

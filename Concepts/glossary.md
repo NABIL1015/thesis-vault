@@ -313,3 +313,12 @@ Here, the airfoil and its flow.
 | X₀ | X nought | steady-state value of X |
 | subscript 0 | nought | "the steady value of" |
 | dot on top | dot | "rate of change of" |
+
+
+---
+
+## Related
+
+- [[Home]] — thesis home
+- [[gk-equations]] — the equations these symbols appear in
+- [[00-Concepts]] — concept index
