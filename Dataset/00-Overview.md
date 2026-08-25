@@ -36,7 +36,7 @@ Trust 0.09 for both.
 ## Data location
 
 Raw FCL data (all 16 datasets, one folder each) lives on disk at:
-`/home/nabil/Downloads/FCL_pressure_data/`
+`/home/nabil/thesis/FCL_pressure_data/`
 
 Not inside the vault — this is data, not notes. Each subfolder is named
 by dataset ID (e.g. `99924/`) and matches the notes above 1:1.
