@@ -11,14 +11,20 @@
             "id": "7a3cfc8aa1bce31c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Literature/gomanStatespaceRepresentationAerodynamic1994.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "d4eea667d3026902",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "gomanStatespaceRepresentationAerodynamic1994"
+              "title": "New tab"
             }
           }
         ]
@@ -190,18 +196,20 @@
   },
   "active": "7a3cfc8aa1bce31c",
   "lastOpenFiles": [
-    "Literature/williamsModelingLiftHysteresis2016.md",
-    "Literature/williamsFeedForwardDynamicStall2018.md",
+    "Concepts/gk-equations.md",
     "Literature/gomanStatespaceRepresentationAerodynamic1994.md",
     "Literature/ayancikAllYouNeed2021.md",
-    "Dataset/99924.md",
+    "Dataset/00-Overview.md",
+    "Concepts/glossary.md",
     "Templates/lit-note.md",
+    "Literature/williamsFeedForwardDynamicStall2018.md",
+    "Literature/williamsModelingLiftHysteresis2016.md",
+    "Dataset/99924.md",
     "Dataset/99928.md",
     "Dataset/99952.md",
     "Dataset/99950.md",
     "Dataset/99932.md",
     "Dataset/99920.md",
-    "Dataset/00-Overview.md",
     "Dataset/99926.md",
     "Dataset/99922.md",
     "Dataset/99910.md",
